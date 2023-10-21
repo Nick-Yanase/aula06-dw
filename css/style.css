@@ -33,3 +33,42 @@ li{
     
     margin:20px;
 }
+
+body{
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.unid {
+   
+    padding-bottom: 10px;
+
+}
+
+.container1{
+    width: 20%;
+    height:5%;
+    font-size: 1,5rem;
+    
+    background-color: red;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+.container2 {
+    width: 50%; 
+    height:5%;
+    
+    
+    background-color: green;
+   
+}
+
+#container3 {
+    width: 20%;
+    height:5%;
+    font-size: 16px;
+    margin-top: 15px;
+    background-color: blue;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
